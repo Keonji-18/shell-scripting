@@ -1,0 +1,4 @@
+press i for insert mode in vim 
+vim is text editor and i used vim to create this file and write content in it
+vim hello.txt -> this was the command
+
